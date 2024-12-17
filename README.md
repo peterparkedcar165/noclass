@@ -53,9 +53,9 @@
 ##### Anvil usage costs less.
 
 ### Tribe
-#### Woodland:
-#### Aquatic:
-#### Infernal:
+#### Woodland: +4 Armor, and +25% Stealth in flowery and foresty biomes
+#### Snow: +4 Armor, and +25% Stealth in Snowy biomes
+#### Desert: +4 Armor, and +25% Stealth in Desert biomes and Mesas
 
 ## Recipe:
 ### Deadly Poison Potion: Special Potion + Spider Eye.
