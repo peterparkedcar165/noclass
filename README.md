@@ -10,17 +10,13 @@
 ##### Drawing Bow and Crossbow slow you less. [DONE]
 ##### Crafted Arrows yield 6 instead of 4 [DONE]
 ##### Accurate Arrow firing. [DONE]
-##### Every 4 Arrow hits is guaranteed to crit.
-
-##### Special Ability: While drawing bow, left click to fire 3 shots. Only available after hitting a certain amount of shots in a small span.
+##### Every 4 Arrow hits is guaranteed to crit. [DONE]
 
 #### Warrior
 ##### Increase Max Health, Attack Damage and Attack Speed [DONE]
 ##### Blocking slows you less. [DONE]
 ##### When wielding Shield, increase block chance by 10%. [DONE]
-##### Killing an enemy restores 10% Health.
-
-##### Special Ability: Shield Bash.
+##### Killing an enemy restores 10% Health. [DONE]
 
 #### Scientist
 ##### New Recipe: Special Potion - New way to make potions, only the Scientist can craft Special Potion by crafting Potion with Rotten Flesh
