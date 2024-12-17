@@ -16,7 +16,7 @@
 ##### Increase Max Health, Attack Damage and Attack Speed [DONE]
 ##### Blocking slows you less. [DONE]
 ##### When wielding Shield, increase block chance by 10%. [DONE]
-##### Killing an enemy restores 10% Health. [DONE]
+##### Killing an enemy restores 10% Health, and restore 1 durability for the main weapon. [DONE]
 
 #### Scientist
 ##### New Recipe: Special Potion - New way to make potions, only the Scientist can craft Special Potion by crafting Potion with Rotten Flesh
